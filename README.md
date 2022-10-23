@@ -1,10 +1,10 @@
     
     Automated Attendance System is a paperless attendance system which will automated the attendance systems of all educational institutes.
     All you have to do is scan the faces of students and the system will compare the faces of students against the saved ones in data base.
-  It will be useful in preventing proxy attendance.
-	It will save time up to at least 5 minutes per class.
-	It is the most efficient way of marking attendance.
-	There is no margin of mistake as there is in manual system.
+  	It will be useful in preventing proxy attendance.                                                                                                                
+	It will save time up to at least 5 minutes per class.                                                                                                             
+	It is the most efficient way of marking attendance.                                                                                                               
+	There is no margin of mistake as there is in manual system.                                                                                                       
   
   
   
