@@ -1,4 +1,4 @@
-	   Automated Attendance System:
+# Automated Attendance System:
 	   
     Automated Attendance System is a paperless attendance system which will automated the attendance systems of all educational institutes.
     All you have to do is scan the faces of students and the system will compare the faces of students against the saved ones in data base.
