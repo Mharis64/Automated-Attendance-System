@@ -5,10 +5,7 @@
   	It will be useful in preventing proxy attendance.                                                                                                                
 	It will save time up to at least 5 minutes per class.                                                                                                             
 	It is the most efficient way of marking attendance.                                                                                                               
-	There is no margin of mistake as there is in manual system.                                                                                                       
-  
-  
-  
+	There is no margin of mistake as there is in manual system.                                                                                                  
 Group members:
 
 Muhammad Haris	Reg#	Sp21-bse-019                                                                                                                                     
