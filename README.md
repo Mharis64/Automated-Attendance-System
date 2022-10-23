@@ -12,7 +12,7 @@ Group members:
 
 Muhammad Haris	Reg#	Sp21-bse-019                                                                                                                                     
 Saad Hussain	Reg #	Sp21-bse-020                                                                                                                                 
-Mian Habib	Reg# 	Sp21-bse-042
+Mian Habib	Reg# 	Sp21-bse-042                                                                                                                                     
 Muddassir Ali 	Reg# 	SP21-bse-016                                                                                                                                     
 Huzaifa Sajjad	Reg #   Sp21-bse-012                                                                                                                                     
 Maaz Latif	Reg #   Sp21-bse-050                                                                                                                                     
