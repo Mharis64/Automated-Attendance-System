@@ -15,3 +15,6 @@ Muddassir Ali 	Reg# 	SP21-bse-016
 Huzaifa Sajjad	Reg #   Sp21-bse-012                                                                                                                                     
 Maaz Latif	Reg #   Sp21-bse-050                                                                                                                                     
 Muzamil khan	Reg #   Sp21-bse-031
+
+                 MOTIVATION BEHIND THIS PROJECT
+Attendance is taken during lectures and how much time it takes. The use of ID cards or manually calling out attendance and writing it down on sheets is not productive and efficient. This system will detect the number of faces on the class and will also identify them from the store database
