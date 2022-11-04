@@ -18,7 +18,7 @@ Muzamil khan	Reg #   Sp21-bse-031
     All you have to do is scan the faces of students and the system will compare the faces of students against the saved ones in data base.
 
 	
-	## Vision and Business Cases:
+## Vision and Business Cases:
 	The system will automate the attendance system of all educational institutes.
 It will be useful in preventing proxy attendance.
 It will save time up to at least 5 minutes per class.
@@ -26,7 +26,7 @@ It is the most efficient way of marking attendance.
 There is no margin of mistake as there is in manual system.
 
 	
-	## Executive summary:
+## Executive summary:
 it is an attendance system fully based on artificial intelligence. The system will scan students and compare them with the saved data in data base. It will be very helpful in reduction of attendance time and also false attendance. All a teacher has to do is to scan student faces and the rest is done by the system. It will automate the attendance system with more efficiency and reliability.
 
 
