@@ -12,8 +12,7 @@ Muzamil khan	Reg #   Sp21-bse-031
 	
 	
 ## Description:
-
-    Automated Attendance System is the semester project of Object Orianted Software Engineering. This project will be carried out by Object Orianted principles and the backend operations will be carried out through Java language.
+ Automated Attendance System is the semester project of Object Orianted Software Engineering. This project will be carried out by Object Orianted principles and the backend operations will be carried out through Java language.
 We are designing automatic attendance system using face detection. The system needs or required video recording device. It detects the face and mark attendance accordingly. This system will prevent unnecessary wastage of time that is usually wasted in form of class roll calls. In the Automated Attendance System, the process flow is initiated by being able to detect the facial features from a camera or a picture stored in a memory.
 It is a  paperless attendance system which will automated the attendance systems of all educational institutes.
     All you have to do is scan the faces of students and the system will compare the faces of students against the saved ones in data base.
