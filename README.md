@@ -2,11 +2,11 @@
 Group members:
 
 Muhammad Haris	Reg#	Sp21-bse-019 (Group Leader)                                                                                                                            
-Saad Hussain	Reg #	Sp21-bse-020                                                                                                                                 
-Mian Habib	Reg# 	Sp21-bse-042                                                                                                                                     
-Muddassir Ali 	Reg# 	SP21-bse-016                                                                                                                                     
-Huzaifa Sajjad	Reg #   Sp21-bse-012                                                                                                                                     
-Maaz Latif	Reg #   Sp21-bse-050                                                                                                                                     
+Saad Hussain	Reg #	Sp21-bse-020
+Mian Habib	Reg# 	Sp21-bse-042                                                                                                                                   
+Muddassir Ali 	Reg# 	SP21-bse-016
+Huzaifa Sajjad	Reg #   Sp21-bse-012
+Maaz Latif	Reg #   Sp21-bse-050
 Muzamil khan	Reg #   Sp21-bse-031
 	
 	
@@ -25,6 +25,13 @@ It will be useful in preventing proxy attendance.
 It will save time up to at least 5 minutes per class.
 It is the most efficient way of marking attendance.
 There is no margin of mistake as there is in manual system.
+
+
+##  Motivation
+
+Attendance is taken during lectures and how much time it takes. The use of ID cards or manually calling out attendance and writing it down on sheets is not productive and efficient. This system will detect the number of faces on the class and will also identify them from the store database
+	
+
 
 	
 ## Executive summary:
