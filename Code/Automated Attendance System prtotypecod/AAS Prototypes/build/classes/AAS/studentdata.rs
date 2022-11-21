@@ -1,3 +1,0 @@
-faceattendace.studentdata$1
-faceattendace.studentdata$2
-faceattendace.studentdata

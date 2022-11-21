@@ -1,3 +1,0 @@
-com.mycompany.loginaccount.searchavailableslots
-com.mycompany.loginaccount.searchavailableslots$1
-com.mycompany.loginaccount.searchavailableslots$2

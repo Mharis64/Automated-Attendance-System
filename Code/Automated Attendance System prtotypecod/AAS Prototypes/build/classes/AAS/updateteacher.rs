@@ -1,5 +1,0 @@
-faceattendace.updateteacher
-faceattendace.updateteacher$3
-faceattendace.updateteacher$4
-faceattendace.updateteacher$1
-faceattendace.updateteacher$2

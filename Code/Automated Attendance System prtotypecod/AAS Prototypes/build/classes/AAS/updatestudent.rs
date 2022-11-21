@@ -1,3 +1,0 @@
-faceattendace.updatestudent
-faceattendace.updatestudent$2
-faceattendace.updatestudent$1
