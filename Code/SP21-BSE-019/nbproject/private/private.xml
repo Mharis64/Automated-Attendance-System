@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/ui/CommonHandler.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/Model/DTO/MessageType.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/ui/StudentUi.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/Model/AASFactory.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/dal/DALManager.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/Model/Validator/Validator.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/ui/RegisterStudent.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/Model/DTO/Response.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/Model/DTO/StudentData.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/dal/RecordsMapper.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/Model/Validator/CommonValidator.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/Model/DTO/Message.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/Model/AASController.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/dal/RecordsModifier.java</file>
+            <file>file:/C:/Users/OK/OneDrive/Documents/NetBeansProjects/AAS1/src/AAS/dal/RecordsAdder.java</file>
+        </group>
+    </open-files>
+</project-private>
