@@ -32,7 +32,8 @@ public class SqlConnection implements IConnection {
     @Override
     public Connection getConnection() {
         try {
-            return DriverManager.getConnection("jdbc:sqlserver://;databaseName="+this.dbName+";trustServerCertificate=true;", this.dbUserName,this.dbUserPassword);
+            return DriverManager.getConnection("jdbc:sqlserver://;databaseName="+this.dbName+";trustServerCertificate=true;",
+                    this.dbUserName,this.dbUserPassword);
         }
         catch (Exception e) {
             System.out.println("Error Trace in getConnection() : " + e.getMessage());

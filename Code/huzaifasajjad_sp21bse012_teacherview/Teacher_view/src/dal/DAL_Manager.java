@@ -24,7 +24,7 @@ public class DAL_Manager {
     RecordAdder objAdder;
    SQLConnection objConnection;
     public DAL_Manager(RecordMapper mapper){
-    objConnection =  AAS_Creator.getInstanceOF_SQLConnection("localhost","master", "sa","1234");
+    objConnection =  AAS_Creator.getInstanceOF_SQLConnection("sa","master", "sa","mhd555ss");
     objReader = AAS_Creator.getInstanceOF_DB_Reader();
     objAdder = AAS_Creator.getInstanceOF_RecordAdder();
     this.objMapper=mapper;
@@ -33,7 +33,7 @@ public class DAL_Manager {
   public ArrayList<TeacherDTO> getTeacherList(String searchKey) {
                 
         Connection  dbConnection = objConnection.getConnection();
-        String viewsQuery = "Select * from Teachers";
+        String viewsQuery = "Select * from students";
         if(searchKey == null || searchKey.length() > 0){
         {
             viewsQuery += " where  ID LIKE '%"+searchKey+"%' OR Firstname LIKE '%"+searchKey+"%' OR LastName LIKE '%"+searchKey+"%' OR Tstatus LIKE '%"+searchKey+"%';";
